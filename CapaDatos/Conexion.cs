@@ -23,6 +23,7 @@ namespace CapaDatos
                 if (File.Exists("ChapasElevadores.db"))
                 {
                     Console.WriteLine("simon");
+                    //Jesus
                     string fullPath;
                     string replace;
                     replace = Path.GetFullPath(fileName);
